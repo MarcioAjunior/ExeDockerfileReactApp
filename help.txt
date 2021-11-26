@@ -1,0 +1,6 @@
+A pasta node contem uma simples api expless que comunica com um banco gerado pela imagem mysql
+citada no docker-compose, como não é possivel subir a pasta, ao iniciar a imagem será necessario
+iniciar uma tabela no banco nodedb informado no docker-coompose, o nome da tabela precisa ser PEOPLE
+
+A pasta nodeApp contem uma simples aplicação react que interage com a api e o banco consequentemente
+e contem boas praticas sobre o react redux promisses e async functions em js
