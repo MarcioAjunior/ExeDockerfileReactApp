@@ -1,4 +1,4 @@
-A pasta node contem uma simples api expless que comunica com um banco gerado pela imagem mysql
+A pasta node contem uma simples api express que comunica com um banco gerado pela imagem mysql
 citada no docker-compose, como não é possivel subir a pasta, ao iniciar a imagem será necessario
 iniciar uma tabela no banco nodedb informado no docker-coompose, o nome da tabela precisa ser PEOPLE
 
